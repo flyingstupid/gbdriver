@@ -1,2 +1,0 @@
- -lresolv -lbsd -lcrypt -lnsl -lm -lrt -lz
-
